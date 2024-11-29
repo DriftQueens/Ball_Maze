@@ -1,3 +1,11 @@
 Sismul_UAS filter=lfs diff=lfs merge=lfs -text
 Sismul_UAS/Packages/com.ptc.vuforia.engine-10.25.4.tgz filter=lfs diff=lfs merge=lfs -text
 com.ptc.vuforia.engine-10.25.4.tgz filter=lfs diff=lfs merge=lfs -text
+Sismul_UAS/Library/Bee/artifacts/Android/hu7xe/libil2cpp.so filter=lfs diff=lfs merge=lfs -text
+Sismul_UAS/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/build/outputs/apk/release/launcher-release.apk filter=lfs diff=lfs merge=lfs -text
+Sismul_UAS/Library/Bee/artifacts/Android/il2cppOutput/build/armeabi-v7a/libil2cpp.dbg.so filter=lfs diff=lfs merge=lfs -text
+File[[:space:]]Sismul_UAS/Library/Bee/artifacts/Android/d8kzr/libil2cpp.so filter=lfs diff=lfs merge=lfs -text
+libil2cpp.so filter=lfs diff=lfs merge=lfs -text
+launcher-release.apk filter=lfs diff=lfs merge=lfs -text
+libil2cpp.dbg.so filter=lfs diff=lfs merge=lfs -text
+a4263a8c8974931c18d40424c7777f2d6856e3d3925e0d2701ff095e59bfa907 filter=lfs diff=lfs merge=lfs -text
