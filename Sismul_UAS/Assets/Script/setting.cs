@@ -44,13 +44,9 @@ public class setting : MonoBehaviour
 
     private void setPenanda(){
         if(countMarker == 0){
-            penanda.SetActive(true);
-        } else{
             penanda.SetActive(false);
+        } else{
+            penanda.SetActive(true);
         }
-    }
-
-    public void setScene(string sceneName){
-        SceneManager.LoadScene(sceneName);
     }
 }
